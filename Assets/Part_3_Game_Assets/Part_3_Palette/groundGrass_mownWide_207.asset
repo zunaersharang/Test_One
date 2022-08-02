@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: groundGrass_mownWide_207
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 240696056, guid: 5ed1dc07fe8280d458886ea18615b1f7, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7924528, g: 0.17568529, b: 0.17568529, a: 1}
   m_Transform:
     e00: 1
     e01: 0
